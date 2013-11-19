@@ -1,0 +1,48 @@
+* {
+	font: 500 normal 20px "Courier New", Courier, monospace;
+	color: Chartreuse;
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: subpixel-antialiased;
+}
+
+html,body,section {
+	background: black;
+	cursor: text;
+	overflow-x: hidden;
+}
+
+input::-webkit-input-placeholder {
+    color: Green;
+}
+input:-moz-placeholder {
+    color: Green;
+}
+input::-o-placeholder {
+	color: Green;
+}
+input:-ms-input-placeholder {
+    color: Green;
+}
+
+input {
+	background: transparent;
+	outline: none;
+	border: none;
+	left: 20px;
+	width: 100%;
+	position: relative;
+}
+
+form:before {
+	content: '>';
+	position: absolute;
+	margin-top: 3px;
+}
+
+form {
+	margin: 0;
+}
+
+.answer {
+	padding-left: 47px;
+}

@@ -1,0 +1,63 @@
+[03-Nov-2012 22:24:09] PHP Parse error:  syntax error, unexpected '<' in /home/jacksong/public_html/hackalone.org/new.php on line 2
+[03-Nov-2012 22:24:32] PHP Warning:  include_once(connectionphp) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/jacksong/public_html/hackalone.org/new.php on line 19
+[03-Nov-2012 22:24:32] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'connectionphp' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/jacksong/public_html/hackalone.org/new.php on line 19
+[03-Nov-2012 22:24:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'jacksong'@'localhost' (using password: NO) in /home/jacksong/public_html/hackalone.org/new.php on line 20
+[03-Nov-2012 22:24:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jacksong/public_html/hackalone.org/new.php on line 20
+[03-Nov-2012 22:24:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'jacksong'@'localhost' (using password: NO) in /home/jacksong/public_html/hackalone.org/new.php on line 21
+[03-Nov-2012 22:24:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/jacksong/public_html/hackalone.org/new.php on line 21
+[03-Nov-2012 22:24:32] PHP Notice:  Query failed: Access denied for user 'jacksong'@'localhost' (using password: NO)<br />
+ in /home/jacksong/public_html/hackalone.org/new.php on line 24
+[03-Nov-2012 22:25:51] PHP Notice:  Query failed: Query was empty<br />
+ in /home/jacksong/public_html/hackalone.org/new.php on line 24
+[04-Nov-2012 03:52:03] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jacksong'@'localhost' (using password: NO) in /home/jacksong/public_html/hackalone.org/index.php on line 2
+[04-Nov-2012 03:52:03] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jacksong'@'localhost' (using password: NO) in /home/jacksong/public_html/hackalone.org/index.php on line 2
+[04-Nov-2012 03:52:08] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jacksong'@'localhost' (using password: NO) in /home/jacksong/public_html/hackalone.org/index.php on line 2
+[04-Nov-2012 03:52:08] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jacksong'@'localhost' (using password: NO) in /home/jacksong/public_html/hackalone.org/index.php on line 2
+[04-Nov-2012 03:52:11] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jacksong'@'localhost' (using password: NO) in /home/jacksong/public_html/hackalone.org/index.php on line 2
+[04-Nov-2012 03:52:11] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jacksong'@'localhost' (using password: NO) in /home/jacksong/public_html/hackalone.org/index.php on line 2
+[04-Nov-2012 03:52:12] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jacksong'@'localhost' (using password: NO) in /home/jacksong/public_html/hackalone.org/index.php on line 2
+[04-Nov-2012 03:52:12] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jacksong'@'localhost' (using password: NO) in /home/jacksong/public_html/hackalone.org/index.php on line 2
+[04-Nov-2012 03:52:12] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jacksong'@'localhost' (using password: NO) in /home/jacksong/public_html/hackalone.org/index.php on line 2
+[04-Nov-2012 03:52:13] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jacksong'@'localhost' (using password: NO) in /home/jacksong/public_html/hackalone.org/index.php on line 2
+[04-Nov-2012 03:52:13] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jacksong'@'localhost' (using password: NO) in /home/jacksong/public_html/hackalone.org/index.php on line 2
+[04-Nov-2012 03:52:13] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jacksong'@'localhost' (using password: NO) in /home/jacksong/public_html/hackalone.org/index.php on line 2
+[04-Nov-2012 03:52:14] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jacksong'@'localhost' (using password: NO) in /home/jacksong/public_html/hackalone.org/index.php on line 2
+[04-Nov-2012 03:52:14] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jacksong'@'localhost' (using password: NO) in /home/jacksong/public_html/hackalone.org/index.php on line 2
+[04-Nov-2012 03:52:47] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jacksong'@'localhost' (using password: NO) in /home/jacksong/public_html/hackalone.org/index.php on line 2
+[04-Nov-2012 03:52:47] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jacksong'@'localhost' (using password: NO) in /home/jacksong/public_html/hackalone.org/index.php on line 2
+[04-Nov-2012 03:52:48] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jacksong'@'localhost' (using password: NO) in /home/jacksong/public_html/hackalone.org/index.php on line 2
+[04-Nov-2012 03:53:45] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jacksong'@'localhost' (using password: NO) in /home/jacksong/public_html/hackalone.org/index.php on line 2
+[04-Nov-2012 03:53:52] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jacksong'@'localhost' (using password: NO) in /home/jacksong/public_html/hackalone.org/index.php on line 2
+[04-Nov-2012 03:54:08] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jacksong'@'localhost' (using password: NO) in /home/jacksong/public_html/hackalone.org/index.php on line 2
+[04-Nov-2012 03:54:12] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'jacksong'@'localhost' (using password: NO) in /home/jacksong/public_html/hackalone.org/index.php on line 2
+[04-Nov-2012 05:38:54] PHP Parse error:  syntax error, unexpected T_STRING in /home/jacksong/public_html/hackalone.org/index.php on line 3
+[04-Nov-2012 05:38:55] PHP Parse error:  syntax error, unexpected T_STRING in /home/jacksong/public_html/hackalone.org/index.php on line 3
+[04-Nov-2012 05:38:57] PHP Parse error:  syntax error, unexpected T_STRING in /home/jacksong/public_html/hackalone.org/index.php on line 3
+[04-Nov-2012 05:39:01] PHP Parse error:  syntax error, unexpected T_STRING in /home/jacksong/public_html/hackalone.org/index.php on line 3
+[04-Nov-2012 05:40:48] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/jacksong/public_html/hackalone.org/index.php on line 4
+[04-Nov-2012 05:40:49] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/jacksong/public_html/hackalone.org/index.php on line 4
+[04-Nov-2012 05:43:24] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/jacksong/public_html/hackalone.org/index.php on line 5
+[04-Nov-2012 05:43:25] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/jacksong/public_html/hackalone.org/index.php on line 5
+[04-Nov-2012 05:43:27] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/jacksong/public_html/hackalone.org/index.php on line 5
+[04-Nov-2012 05:43:37] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/jacksong/public_html/hackalone.org/index.php on line 5
+[04-Nov-2012 05:43:37] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/jacksong/public_html/hackalone.org/index.php on line 5
+[04-Nov-2012 05:43:42] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/jacksong/public_html/hackalone.org/index.php on line 5
+[04-Nov-2012 05:46:19] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/jacksong/public_html/hackalone.org/index.php on line 5
+[04-Nov-2012 05:48:03] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jacksong/public_html/hackalone.org/index.php on line 4
+[04-Nov-2012 05:48:09] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jacksong/public_html/hackalone.org/index.php on line 4
+[04-Nov-2012 05:48:10] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jacksong/public_html/hackalone.org/index.php on line 4
+[04-Nov-2012 05:48:19] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jacksong/public_html/hackalone.org/index.php on line 4
+[04-Nov-2012 05:48:31] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jacksong/public_html/hackalone.org/index.php on line 4
+[04-Nov-2012 05:48:35] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/jacksong/public_html/hackalone.org/index.php on line 4
+[04-Nov-2012 05:54:15] PHP Fatal error:  Class 'date' not found in /home/jacksong/public_html/hackalone.org/index.php on line 6
+[04-Nov-2012 05:54:19] PHP Fatal error:  Class 'date' not found in /home/jacksong/public_html/hackalone.org/index.php on line 5
+[04-Nov-2012 05:54:20] PHP Fatal error:  Class 'date' not found in /home/jacksong/public_html/hackalone.org/index.php on line 5
+[04-Nov-2012 05:54:35] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/jacksong/public_html/hackalone.org/index.php on line 5
+[04-Nov-2012 05:59:15] PHP Parse error:  syntax error, unexpected T_ECHO in /home/jacksong/public_html/hackalone.org/index.php on line 6
+[04-Nov-2012 06:00:14] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/jacksong/public_html/hackalone.org/index.php on line 7
+[04-Nov-2012 06:23:59] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/jacksong/public_html/hackalone.org/index.php on line 6
+[04-Nov-2012 06:24:36] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/jacksong/public_html/hackalone.org/index.php on line 7
+[04-Nov-2012 06:24:39] PHP Warning:  array_pop() [<a href='function.array-pop'>function.array-pop</a>]: The argument should be an array in /home/jacksong/public_html/hackalone.org/index.php on line 6
+[04-Nov-2012 06:24:39] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/jacksong/public_html/hackalone.org/index.php on line 7
+[04-Nov-2012 06:24:43] PHP Warning:  array_pop() [<a href='function.array-pop'>function.array-pop</a>]: The argument should be an array in /home/jacksong/public_html/hackalone.org/index.php on line 6
+[04-Nov-2012 06:24:43] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/jacksong/public_html/hackalone.org/index.php on line 7
